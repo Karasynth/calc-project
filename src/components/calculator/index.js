@@ -5,6 +5,7 @@ import CalculatorRow from "./calculator-row";
 import CalculatorButton from "./calculator-button";
 import './calculator.css';
 import actions from '../../actions/calculatorActions';
+import utils from '../../utilities';
 
 class Calculator extends React.Component {
     constructor( props ){

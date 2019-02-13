@@ -14,5 +14,5 @@ function clearEquation() {
 
 export default {
     addToEquation,
-    clearEquation,
+    clearEquation
 };
