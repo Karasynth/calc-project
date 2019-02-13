@@ -14,10 +14,10 @@ class App extends Component {
             <Calculator/>
             <button 
               className='calculator-button'
-              style={{width: 'auto', marginTop: 50}}
+              style={{width: 'auto', marginTop: 50, background: '#e74c3c', color: 'white', fontSize: 16}}
               onClick={() => window.open('mailto:thomsos.prod@gmail.com?subject=You Are Hired!')}
             >
-              Hire Shayne
+              Click here to hire Shayne
             </button>
           </Provider>
         </header>

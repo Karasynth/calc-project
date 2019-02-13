@@ -1,6 +1,11 @@
 ## Welcome
 Hello, my name is Shayne. Welcome to a small demo project that will showcase some of my skills in React/Redux.
 
+### Assumptions
+- Clearing will reset to 0
+- Operators will be overwritten if two are pressed in a row
+- I used mathJS to the calculation. If reliable code exists that meets the requirements, it would be a waste of time and testing to rewrite it
+
 ### Structure
 
 I have seperated the app into 3 major folders; "actions", "components", and "store".

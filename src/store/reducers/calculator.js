@@ -1,7 +1,7 @@
 import utils from '../../utilities';
 
 const initialState = {
-  equation: "",
+  equation: "4+6*21-9",
 };
 
 export default function(state = initialState, action) {
@@ -25,7 +25,7 @@ export default function(state = initialState, action) {
     case "CLEAR_EQUATION": {
       return {
         ...state,
-        equation: initialState.equation,
+        equation: "", //initialState.equation,
       };
     }
     default:
