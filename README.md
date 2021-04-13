@@ -1,5 +1,5 @@
 ## Welcome
-Hello, my name is Shayne. Welcome to a small demo project that will showcase some of my skills in React/Redux.
+Hello, my name is Kara. Welcome to a small demo project that will showcase some of my skills in React/Redux.
 
 ### Assumptions
 - Clearing will reset to 0
