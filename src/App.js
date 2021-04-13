@@ -10,14 +10,14 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <Provider store={store}>
-            <h2>Shayne Thomson's Calculator</h2>
+            <h2>Laura's Calculator</h2>
             <Calculator/>
             <button 
               className='calculator-button'
               style={{width: 'auto', marginTop: 50, background: '#e74c3c', color: 'white', fontSize: 16}}
               onClick={() => window.open('mailto:thomsos.prod@gmail.com?subject=You Are Hired!')}
             >
-              Click here to hire Shayne
+              Click here to hire Laura
             </button>
           </Provider>
         </header>
